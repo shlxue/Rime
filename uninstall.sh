@@ -15,3 +15,6 @@ clear_files $stroke_files
 clear_files $wubi86_files
 clear_files $double_pinyin_files
 clear_files $emoji_files
+
+# delete user folders and build folder
+rm -fr *.userdb build
