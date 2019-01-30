@@ -1,0 +1,6 @@
+/build
+/*.userdb
+/opencc
+
+# add custom config by manual
+*.yaml

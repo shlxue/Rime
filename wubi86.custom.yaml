@@ -1,0 +1,9 @@
+__patch:
+# Rx: emoji:customize:schema=wubi86 {
+  - patch/+:
+      __include: emoji_suggestion:/patch
+# }
+patch:
+  schema:
+    dependencies:
+      - luna_pinyin_simp
